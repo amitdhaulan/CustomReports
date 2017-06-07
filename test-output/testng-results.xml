@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16283" started-at="2017-06-05T14:59:37Z" finished-at="2017-06-05T14:59:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16283" started-at="2017-06-05T14:59:37Z" finished-at="2017-06-05T14:59:53Z">
+      <class name="extent.report.ExtentReport">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:extent.report.ExtentReport@57baeedf]" name="startUp" is-config="true" duration-ms="7381" started-at="2017-06-05T20:29:37Z" finished-at="2017-06-05T20:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="verifySeleniumBlog()[pri:0, instance:extent.report.ExtentReport@57baeedf]" name="verifySeleniumBlog" duration-ms="5739" started-at="2017-06-05T20:29:44Z" finished-at="2017-06-05T20:29:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySeleniumBlog -->
+        <test-method status="PASS" signature="secondTest()[pri:1, instance:extent.report.ExtentReport@57baeedf]" name="secondTest" duration-ms="2037" started-at="2017-06-05T20:29:50Z" finished-at="2017-06-05T20:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:extent.report.ExtentReport@57baeedf]" name="tearDown" is-config="true" duration-ms="1113" started-at="2017-06-05T20:29:52Z" finished-at="2017-06-05T20:29:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- extent.report.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
